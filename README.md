@@ -2,7 +2,7 @@
 
 To import my key:
 ```
-gpg2 --locate-keys maferra@icloud.com
+gpg2 --locate-keys 219873674+maferra@users.noreply.github.com
 ```
 
 Key fingerpint
